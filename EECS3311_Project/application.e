@@ -25,12 +25,7 @@ create
 
 			create help.make --calling the help class -->which is showing contents of the help.txt present in the same directory.
 
-		end
-
-
-
-
-
+	end
 
 
 

@@ -8,21 +8,36 @@ class
 	HELP
 
 
-
-
 create
-    make
+	make
 
-    feature -- Access
 
-    input_file: PLAIN_TEXT_FILE
+    --feature -- Access
+
+
 
 	feature {ANY} -- Initialization
 
-    make
-            -- Run application.
+
+
+		make
+
+		do
+		 
+
+
+
+		end
+
+
+
+        get_help
+        local
+        		input_file: PLAIN_TEXT_FILE
+
         do
-            create input_file.make_open_read ("help.txt")
+
+        	create input_file.make_open_read ("help.txt")
 
 
             from
@@ -34,7 +49,9 @@ create
                 input_file.read_character
             end
 
-            input_file.close
+
+
+
 
         end
 

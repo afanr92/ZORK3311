@@ -3,7 +3,8 @@ note
 	author: "A.R"
 	date: "$Date$"
 	revision: "$Revision$"
-
+--This file reads the contents from a text file and displays it on the command line. It can be called from a different class just like
+--i did from my application.e . When user writes help , it displays all the help we want to give them
 class
 	HELP
 

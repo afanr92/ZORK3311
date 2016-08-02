@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+				   
+  N                             
+W + E                     | TREASURE ROOM |    -     | DRAGON ROOM |
+  S			 
+				    |
+	
+			    | INITIAL ROOM  |
+
+				    |
+
+			    | EXIT (DOOR)   |
